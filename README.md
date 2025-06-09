@@ -1,4 +1,4 @@
-# Oh-my-zsh
+# 🚀 Oh-my-zsh
 
 Configuración general utilizada en mis .zshrc
 
